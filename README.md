@@ -51,7 +51,7 @@ CVPR 2021.
 
 **A2**: Yes. See Q1. 
 
-# Contact Us
+## Contact Us
 
 If you have a question not provided in the FAQs above, please create an issue in this repository. 
 
