@@ -1,5 +1,10 @@
 # Conceptual 12M
 
+<p align="center">
+  <img width="192" height="312" src="/images/cc12m_1.jpg">
+  <img width="192" height="312" src="/images/cc12m_2.jpg">
+</p>
+
 We introduce the Conceptual 12M (CC12M), a dataset with ~12 million image-text pairs meant to be used for vision-and-language pre-training.
 It is larger and covers a much more diverse set of visual concepts than [the Conceptual Captions](https://github.com/google-research-datasets/conceptual-captions) (CC3M), a dataset that is widely used for pre-training and end-to-end training of image captioning models.
 Check our [paper](https://arxiv.org/abs/2102.08981) for further details.
