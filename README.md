@@ -49,7 +49,11 @@ CVPR 2021.
 
 **Q2**: Is it normal that a subset of images cannot be retrieved from the provided URLs?
 
-**A2**: Yes. See Q1. 
+**A2**: Yes. See Q1.
+
+**Q3**: Is CC12M an “expanded” CC3M?
+
+**A2**: No, CC12M is on purpose designed for vision-and-language pre-training, and meant to be disjoint from CC3M. CC3M is cleaner and more appropriate for fine-tuning, but can be used in conjunction with CC12M for pre-training, as illustrated in our paper. Coincidentally, their intersection is found to be non-zero — approximately 63K URLs.
 
 ## Contact Us
 
