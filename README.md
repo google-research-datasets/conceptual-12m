@@ -23,7 +23,8 @@ Click [here](https://storage.googleapis.com/conceptual_12m/cc12m.tsv) to downloa
 </pre></div>
 
 ### Hashcodes
-Click [here](https://storage.googleapis.com/cc_hashes/cc12m.tsv.gz) to download (2.12GB)
+Click [here](https://storage.googleapis.com/cc_hashes/cc12m.tsv.gz) to download (2.12GB).
+Credit: [Nicholas Carlini](https://nicholas.carlini.com/)
 
 **Format (.tsv)**
 <div class="highlight highlight-source-shell"><pre>
