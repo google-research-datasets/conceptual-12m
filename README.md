@@ -22,6 +22,10 @@ Click [here](https://storage.googleapis.com/conceptual_12m/cc12m.tsv) to downloa
 [image_url_N]\t[caption_N]
 </pre></div>
 
+### Hashcodes
+Click [here](https://storage.googleapis.com/cc_hashes/cc12m.tsv.gz)
+**Format (.tsv)**
+[image_url_n]\t[SHA256]\t[MD5]
 
 ## Cite
 
