@@ -24,8 +24,15 @@ Click [here](https://storage.googleapis.com/conceptual_12m/cc12m.tsv) to downloa
 
 ### Hashcodes
 Click [here](https://storage.googleapis.com/cc_hashes/cc12m.tsv.gz)
+
 **Format (.tsv)**
-[image_url_n]\t[SHA256]\t[MD5]
+<div class="highlight highlight-source-shell"><pre>
+[image_url_1]\t[SHA256_1]\t[MD5_1]
+[image_url_2]\t[SHA256_2]\t[MD5_2]
+[image_url_3]\t[SHA256_3]\t[MD5_3]
+…
+[image_url_N]\t[SHA256_N]\t[MD5_N]
+</pre></div>
 
 ## Cite
 
