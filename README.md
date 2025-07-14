@@ -23,7 +23,7 @@ Click [here](https://drive.google.com/file/d/1mZ_sHAp7jpMfFVY2TFN9wZioYujoYfCL/v
 </pre></div>
 
 ### Hashcodes
-Click [here](https://storage.mtls.cloud.google.com/cc_hashes/cc12m.tsv.gz) to download (2.12GB).
+Click [here](https://drive.google.com/file/d/1NarE_rOvCS7seMemLQBmUDzkqLSKeMXy/view?usp=sharing) to download (2.12GB).
 Credit: [Nicholas Carlini](https://nicholas.carlini.com/)
 
 **Format (.tsv)**
