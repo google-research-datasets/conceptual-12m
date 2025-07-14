@@ -10,7 +10,7 @@ It is larger and covers a much more diverse set of visual concepts than [the Con
 Check our [paper](https://arxiv.org/abs/2102.08981) for further details.
 
 ## Download
-Click [here](https://storage.mtls.cloud.google.com/conceptual_12m/cc12m.tsv) to download (2.5GB)
+Click [here](https://drive.google.com/file/d/1mZ_sHAp7jpMfFVY2TFN9wZioYujoYfCL/view?usp=sharing) to download (2.5GB)
 
 
 **Format (.tsv)**
